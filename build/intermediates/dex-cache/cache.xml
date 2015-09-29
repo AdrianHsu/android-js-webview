@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/AdrianHsu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/AdrianHsu/Google_Drive/NTUEE_104_1/Android Programming/Forked_project/AndroidJSWebView1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-12ad8f9831c282979d8085dc22e71f0c415387b5.jar" />
+    </item>
+
+</items>
